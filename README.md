@@ -47,8 +47,6 @@ This is a simple QR Code Generator built with React and Vite. Users can enter a 
 3. If the URL is valid, a QR Code will be generated and displayed.
 4. Scan the generated QR Code using a QR Code scanner to open the URL.
 
-## Screenshots
-Include screenshots or GIFs of your application here.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
